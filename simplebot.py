@@ -22,7 +22,6 @@ def get_bot_response(user_input):
   return bot_response
 
 
-
 def create_and_insert_user_frame(user_input):
   userFrame = Frame(chatWindow, bg="#d0ffff")
   Label(
